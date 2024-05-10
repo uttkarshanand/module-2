@@ -50,4 +50,4 @@ Verifier deployed to 0x8142c1b31A093C4f9031281CB36fd61b62FE5ff9
 Verifier result: true
 ```
 ## Author
-This project is created by Kislay Kaushal
+This project is created by Utkarsh Anand
